@@ -1,5 +1,4 @@
 # hello-world
-git hello-world tutorial
 
 Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras mattis consectetur purus sit amet fermentum. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper.
 
